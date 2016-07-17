@@ -1,5 +1,5 @@
 {
-  "name": "map-generator",
+  "name": "map-gen",
   "version": "0.1.0",
   "description": "Easy map generation",
   "main": "index.js",
